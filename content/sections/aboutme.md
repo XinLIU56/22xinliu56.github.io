@@ -1,8 +1,14 @@
-I am a Ph.D. candidate at Gabelli School of Business, Fordham University.
+**Post-Doctoral Fellow, Harvard University**\
+**Ph.D. (Finance), Fordham University** [Course List and Transcripts]()\
+**M.Phil (Economics), IGIDR, Mumbai (India)** [Course List and Transcripts]()\
+**B.Tech. (Chemical Engineering), NIT, Jaipur (India)** [Course List and Transcripts]()
 
-My current research focuses on the interaction of behavioral and environmental economics with finance.
 
-Areas of interest: Empirical Corporate Finance, Corporate Governance, Corporate Social Responsibility (CSR), Environmental, Social and Governance (ESG), and Behavioral Economics.
+Research Interests: **Corporate Governance, Corporate Finance, Sustainable Finance, Behavioral Finance, and Debt Markets.**
+
+[Harvard Website](https://scholar.harvard.edu/jitendraaswani/bio)\
+[CV]()\
+[Github](https://github.com/aswanijeet1412)\
+[LinkedIn](https://www.linkedin.com/in/jitendra-aswani-72800216/)
 
 
-__[Curriculum Vitae]__ (Updated Febuary 2021)
