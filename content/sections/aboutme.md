@@ -1,6 +1,6 @@
 **Post-Doctoral Associate, MIT Sloan**\
 **Post-Doctoral Fellow, Harvard University**\
-**Ph.D. (Finance)**; **M.Phil (Economics)**; **B.Tech. (Chemical Engineering)**\
+**Ph.D. (Finance)**; **M.Phil (Economics)**; **B.Tech. (Chemical Engineering)**
 
 
 
