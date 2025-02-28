@@ -1,5 +1,6 @@
 # Site settings
 title: Xin (Shein) Liu
+baseurl: ""
 
 # Build settings
 markdown: kramdown
